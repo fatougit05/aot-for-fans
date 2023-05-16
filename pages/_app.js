@@ -7,20 +7,19 @@ const poppins = Poppins({
   subsets : ['latin'] ,
   weight: ['400','700','800'],
 })
+{/**session,  */}
 
 import { SessionProvider } from "next-auth/react"
 
 export default function App({ 
-  Component, pageProps: { session, ...pageProps }
+  Component, pageProps: {...pageProps }
  }) {
   
   return (
     
     <main className={poppins.className}>
       <Nav />
-      <SessionProvider session={session}>
       <Component {...pageProps}/>
-    </SessionProvider>
     <Footer />
     </main>
 

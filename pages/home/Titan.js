@@ -94,7 +94,7 @@ useEffect(() => {
                 className="w-[60%]"
                 src={post.titanImage}
                 alt=""
-                srcset=""
+                
               />
 
               <div className="flex flex-col justify-center ">

@@ -14,7 +14,7 @@ function Nav() {
   return (
     <div>
     <nav className="relative flex bg-gray-800">
-      <Image src={logo} className=" bg-transparent w-[200px]" />
+      <Image src={logo} className=" bg-transparent w-[200px]" alt="" />
 
       <ul className="absolute hidden bg-transparent lg:flex xl:flex right-4 ">
         

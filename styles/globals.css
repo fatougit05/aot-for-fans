@@ -175,8 +175,9 @@ width: 90%;
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 1000;
   cursor: pointer;
+  /*z-index: 1000;*/
+
 }
 
 .search .icon::before {

@@ -19,28 +19,27 @@ const [filters,setFilter] = useState("")
       getNameList()
   },[])
       
-  
-      if(typeof window !== "undefined") {
-      const icon = document.querySelector(".icon")
-      const search = document.querySelector(".search")
-      icon.onclick = function() {
-          search.classList.toggle('active')
-          }
-  
-         
-      }
+  if(typeof window !== "undefined") {
+    const icon = document.querySelector(".icon")
+    const search = document.querySelector(".search")
+    icon.onclick = function() {
+        search.classList.toggle('active')
+        }
+
+       
+    }
     
       
   return (
     <div className='h-[3000px]'>
-      <div className='responsive-flexbox '>
+      <div  className='responsive-flexbox '>
  <div className='mt-10 bg-gray-700 search'>
 <div className='icon '></div>
 <div className='input'>
     <input onChange={(e) => setSearch(e.target.value)}
      type="text" placeholder="ex:armin,episode 1, 32(min)" id="mysearch" className='bg-gray-700 '/>
 </div>
-<span className='clear' onclick="document.getElementById('mysearch').value = ''"></span>
+<span className='clear' onClick=""></span>
  </div>
  
 <select id="filter-items" defaultValue="" onChange={(e) => setFilter(e.target.value)} className='px-2 mt-10 ml-20 text-gray-200 bg-gray-500 rounded outlirounded-lg'>
