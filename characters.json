@@ -1,0 +1,184 @@
+ 
+    [
+        {
+          "_id": 1,
+          "characterId" :"pakzcxu2ps",
+          "characterName": "Eren Yeager",
+          "characterImage": "https://www.pngmart.com/files/13/Eren-Yeager-Render-PNG-Clipart.png",
+          "characterDescription": "Eren is a teenager who swears revenge on enormous man-eating humanoid creatures known as Titans, who have forced what remains of the human race to live in walled off cities and devoured his mother while destroying his home town in the Shiganshina district of Wall Maria. In order to defeat the Titans, Eren enlists in the Military and joins the Survey Corps—an elite group of soldiers who fight Titans outside the walls and also study the physiology of Titans in order to know what they are fighting. As the story progresses, Eren gains the power of becoming a Titan later identified as 'Attack Titan' (進撃の巨人, Shingeki no Kyojin). "
+         ,
+         "aboutImage":"https://wegotthiscovered.com/wp-content/uploads/2023/01/attack-on-titan.jpg?w=1200",
+          "titanNature": "Attack Titan",
+          "episodeRelated": 9
+        },
+
+        {
+            "_id": 2,
+            "characterId" :"5phmlqyxxf ",
+            "characterName": "Armin Arlert ",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dej1e92-13591be5-55fb-4bfb-9676-6ed8dae9253b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVqMWU5Mi0xMzU5MWJlNS01NWZiLTRiZmItOTY3Ni02ZWQ4ZGFlOTI1M2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qNx0LJO6IerGL-nTPqrK87m_y3u3tEmu4xciHZFQA0o",
+            "characterDescription": "Armin Arlert is one of the two deuteragonists (alongside Mikasa Ackerman) of the Attack on Titan anime/manga series. He is a refugee from Shiganshina and Eren Yeager and Mikasa Ackerman's best friend from childhood. Although he is physically weak and hates having to rely of Eren and Mikasa, Armin's strategic abilities and intelligence more than makes up for his physical foibles and have saved Eren and Mikasa multiple times. "
+           ,
+           "aboutImage":"https://pbs.twimg.com/media/FJ1QrlraIAEXeXM.jpg:large",
+            "titanNature": "Collosal Titan",
+            "episodeRelated": 3
+          
+          },
+
+          {
+            "_id": 3,
+            "characterId" :"19bk2db44g",
+            "characterName": "Mikasa Ackerman",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50f05812-6489-49a6-8398-d922b6c13e36/dah8juc-abe56593-ac05-4aae-8d6d-c10dab79753d.png/v1/fill/w_1024,h_1345/mikasa_ackerman__render__by_namyle_dah8juc-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM0NSIsInBhdGgiOiJcL2ZcLzUwZjA1ODEyLTY0ODktNDlhNi04Mzk4LWQ5MjJiNmMxM2UzNlwvZGFoOGp1Yy1hYmU1NjU5My1hYzA1LTRhYWUtOGQ2ZC1jMTBkYWI3OTc1M2QucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.IxbRgjOR5fPSZsm450esOqc0USHtLzJOspnmvIhXLtY",
+            "characterDescription": "Mikasa Ackerman is one of the two deuteragonists (alongside Armin Arlert) of the Attack on Titan anime/manga series. She is the childhood friend of Eren Yeager and Armin Arlert and is of both Eldian and Asian heritage, her father being an Ackerman and her mother being an Azumabito, a foreign family. The latter makes Mikasa a descendant of the former Shogun clan that ruled Hizuru until the end of the Great Titan War. This makes Mikasa related to the current Azumabito family that holds significant political power in Hizuru."
+           ,
+           "aboutImage":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Mikasa-Ackermann.Attack-on-Titan.webp",
+            "titanNature": "",
+            "episodeRelated": 6
+        
+          },
+
+
+          {
+            "_id": 4,
+            "characterId" :"ih8aug33ow",
+            "characterName": "Jean Kirstein",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dej1e3r-2b4268c4-1715-4791-aaa3-a159fcf3d657.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVqMWUzci0yYjQyNjhjNC0xNzE1LTQ3OTEtYWFhMy1hMTU5ZmNmM2Q2NTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kjSCKMYjpz2QiYa0g6LLSOfLzFu3BQjePcQcfFfwCNI",
+            "characterDescription": "Jean Kirstein  is a graduate of the 104th Training Corps, among whom he ranked 6th best. Jean hails from Wall Rose's Trost District, and joined the military with hopes of obtaining a peaceful life as part of the Military Police Brigade, but would later find himself joining the Survey Corps. Currently, he serves as a commanding officer in the Survey Corps, leading a squad during the Raid on Liberio."
+           ,
+           "aboutImage":"https://wallpapercave.com/wp/wp7444973.png",
+            "titanNature": "",
+            "episodeRelated": 3
+        
+          },
+
+
+          {
+            "_id": 5,
+            "characterId" :"4jf108vfm0",
+            "characterName": "Levi Ackerman",
+            "characterImage": "https://www.pngmart.com/files/19/Captain-Levi-Ackerman-Transparent-PNG.png",
+            "characterDescription": "Levi is a soldier working for the Survey Corps Special Operations Squad (調査兵団特別作戦班, Chōsa Heidan Tokubetsu Sakusen-han), also known as Squad Levi (リヴァイ班, Rivai-han), a squad of four elite soldiers with impressive combat records hand-picked by him. The squad takes the protagonist Eren Yeager under their wing as both his bodyguards and potential executors if he goes berserk. Though Levi is a supporting character, his backstory is explored when dealing with his mentor Kenny during the main series as well as in the spin-off manga Attack on Titan: No Regrets. "
+           ,
+           "aboutImage":"https://practicaltyping.com/wp-content/uploads/2022/04/leviacker.jpg",
+            "titanNature": "",
+            "episodeRelated": 4
+            
+          },
+
+
+          {
+            "_id": 6,
+            "characterId" :"376itxr8nq",
+            "characterName": "Connie Springer",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/ddfxng4-6c6f4fe2-64a9-46df-b90b-d54889fad0fa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGRmeG5nNC02YzZmNGZlMi02NGE5LTQ2ZGYtYjkwYi1kNTQ4ODlmYWQwZmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lEBy9dotzrLxpDUtJyKjOwWYsP4hADfLIsQuoUd7pLI",
+            "characterDescription": "Connie hails from the Ragako District of Wall Rose. He is very close friends with Sasha Blouse. Having ranked eighth in his class,[ch. 2] he initially plans to join the Military Police but changes his mind after hearing Eren's speech,[ch. 3] and eventually joins the Survey Corps.[ch. 21][GB p.46-47] Later, his village is decimated by the Beast Titan and all of its inhabitants are turned into Pure Titans, including his mother. Connie ends up kidnapping Falco in an attempt to save his mother, but changes his mind last minute and saves Armin. Connie is traumatized when he kills his close friends Daz and Samuel to stop them from blowing up the flying boat.  "
+           ,
+           "aboutImage":"https://media.distractify.com/brand-img/N7CaVp3EY/0x0/does-connie-die-in-attack-on-titan-1634236458893.jpg",
+            "titanNature": "",
+            "episodeRelated": 3
+          },
+
+          {
+            "_id": 7,
+            "characterId" :"8htxjm3zi6",
+            "characterName": "Sasha Braus ",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dej1e0b-af937941-0b50-41b9-9831-65d4c84a8f88.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVqMWUwYi1hZjkzNzk0MS0wYjUwLTQxYjktOTgzMS02NWQ0Yzg0YThmODgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nTspNwix-W0rzfIzI-Su6qp82x6s5fKArey-59loOnI",
+            "characterDescription": "Sasha is a hunter from the mountainous Dauper District.She is noted as a proficient hunter skilled with a bow and has remarkable hearing and instincts, but she also has issues with structure and authority. She seems obsessed with food and was nicknamed 'Potato Girl' (芋女, Imo Onna) for eating one during a military training drill.[12][GB p.60] She joins the military after getting into an argument with her father when he tells her they must give up their traditional hunting lifestyle in the forest in favor of farming to support the large number of refugees moving to the area after the fall of Wall Maria.[ch. 36][GB p.48-49] She manages to become a member of Captain Levi's Elite Squad with a number of her fellow 104th compatriots."
+           ,
+           "aboutImage":"https://i.pinimg.com/200x/46/01/c2/4601c2af039b91b5eb99fb9aa4194bab.jpg",
+            "titanNature": "",
+            "episodeRelated": 4
+          },
+
+          {
+            "_id": 8,
+            "characterId" :"9ikdz5l063",
+            "characterName": "Reiner Braun",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dej1dqy-531e3dee-1e22-488b-bdb1-b545b3dffe9d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVqMWRxeS01MzFlM2RlZS0xZTIyLTQ4OGItYmRiMS1iNTQ1YjNkZmZlOWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WKdH8Fx557tDTL6m_bKPN-Lc10Kya5qa-g_IEWSlQFU",
+            "characterDescription": "Reiner is a member of the Marleyan military's Warrior Unit and is the holder of the Armored Titan (鎧の巨人, Yoroi no Kyojin).[vol. 10-11] As the leader of the infiltration unit responsible for Marley's opening offensive against the Walls on the island of Paradis,[ch. 96] he serves as one of the main antagonists for most of the story. Reiner is introduced as a cadet of the 104th Training Corps who graduates 2nd in his class.[ch. 2] Described by instructor Keith Shadis as being strong as an ox and a natural leader, he quickly earns the trust of the Paradisian Survey Corps and infiltrated their ranks.[GB p.56-57]As a child, Reiner joined Marley's Warrior Unit so he and his Eldian mother could become honorary Marleyans and be reunited with his Marleyan father.[ch. 96] Despite being rejected by his birth father, the fanatical patriotism instilled in him by his mother motivates him to move forward with his mission to capture the Founding Titan (aka: the 'Coordinate') from Paradis Island.[ch. 95] "
+           ,
+           "aboutImage":"https://animecorner.me/wp-content/uploads/2023/02/Reiner-Braun-in-Attack-on-Titan-Season-4-Part-2.jpg",
+            "titanNature": "Armored Titan",
+            "episodeRelated": 1
+          },
+
+          {
+            "_id": 9,
+            "characterId" :"k3qgrxav64",
+            "characterName": "Annie Leonhart",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dej1duf-0a61c248-ed9f-4563-8161-ea84c313d02e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVqMWR1Zi0wYTYxYzI0OC1lZDlmLTQ1NjMtODE2MS1lYTg0YzMxM2QwMmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jKBE5sb7CebVb9YnhV35Jv2I3gZTDKtb37MwjCLleZM",
+            "characterDescription": "Annie Leonhart is a graduate of the 104th Training Corps and former member of the Military Police Brigade. Her exceptional skills with swords and unarmed combat earned her the 4th rank, but she is also noted to be a lone wolf who struggles to work with others.[11]She possessed the ability to transform into a Titan known as the Female Titan. Trained from an early age by her father,[12] she is selected as one of Marley's Warriors. "
+           ,
+           "aboutImage":"https://comicbento.com/wp-content/uploads/2021/10/Attack-on-Titan-What-happened-to-Annie-Leonhart.jpg",
+            "titanNature": "Female Titan",
+            "episodeRelated": 0
+          
+          },
+
+          {
+            "_id": 10,
+            "characterId" :"eevh2lzl49",
+            "characterName": "Zeke Yeager",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/911c9023-9f59-4ed5-b75b-09179e37ac98/dff1vep-e8cf96b5-51fc-403d-a8b8-6381aecde3e4.png/v1/fill/w_762,h_764/zeke_yeager__aot__render__by_a9gh_dff1vep-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY0IiwicGF0aCI6IlwvZlwvOTExYzkwMjMtOWY1OS00ZWQ1LWI3NWItMDkxNzllMzdhYzk4XC9kZmYxdmVwLWU4Y2Y5NmI1LTUxZmMtNDAzZC1hOGI4LTYzODFhZWNkZTNlNC5wbmciLCJ3aWR0aCI6Ijw9NzYyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QBNJv7gNMtKF8DNJP-wkD7DK-iMSUQCzRbXlKijv_GU",
+            "characterDescription": "Zeke Yeager (ジーク・イェーガー  Jīku Yēgā?) was the former Captain (戦士長 Senshi-chō?)[15] of Marley's Warrior Unit, assigned to take the Founding Titan from the Eldians of Paradis Island.[16] He was the inheritor of the Beast Titan, and was considered to be the strongest warrior by Reiner Braun,[17] contrasting Levi Ackerman's title of 'humanity's strongest soldier.'[18] He manipulated and deceived both sides of the war between Eldia and Marley in order to achieve his own agenda of causing the extinction of his own people, which he viewed as 'salvation'."
+           ,
+           "aboutImage":"https://miro.medium.com/v2/resize:fit:500/0*lK93hQyzOXtPiVwG",
+            "titanNature": "Beast Titan",
+            "episodeRelated": 4
+          },
+
+
+          {
+            "_id": 11,
+            "characterId" :"bimn93687b",
+            "characterName": "Bertholt Hoover",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dej1dmx-6f37131d-30dc-4803-bbfc-46344730c293.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVqMWRteC02ZjM3MTMxZC0zMGRjLTQ4MDMtYmJmYy00NjM0NDczMGMyOTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p1yZMZoTTr5OSeEnvOsxzDy9rtVCF2mZwbepVBLnTyM",
+            "characterDescription": "Bertholt Hoover (ベルトルト・フーバー Berutoruto Fūbā?) was an Eldian and one of Marley's Warriors. Brainwashed by propaganda as a child, he was led to believe that his actions of terrorism he would commit would be honorable and just. He possessed the ability to transform into a Titan known as the Colossus Titan. In the year 845, he, Reiner Braun, and Annie Leonhart breached Wall Maria in an attempt to lure out and acquire the Founding Titan for Marley.  "
+           ,
+           "aboutImage":"https://pbs.twimg.com/profile_images/1101850372698718208/bK4jTPEv_400x400.jpg",
+            "titanNature": "ex Colossal Titan",
+            "episodeRelated": 2
+          },
+
+          {
+            "_id": 12,
+            "characterId" :"g6x9tlj38b",
+            "characterName": "Gabby Braun",
+            "characterImage": "https://i.pinimg.com/originals/ea/99/cc/ea99cc8907e0867b9d8298b6469184c1.png",
+            "characterDescription": "Gabby Braun (ガビ・ブラウン Gabi Buraun?) is an Eldian who lived in the Liberio internment zone and the cousin of Reiner Braun.[6] She is a Warrior candidate (戦士候補生 Senshi Kōho-sei?, also translated as 'Warrior Cadet') that is likely to inherit the Armored Titan power.[7]"
+           ,
+           "aboutImage":"https://sumansourabh.in/wp-content/uploads/2021/11/gabi-braun-attack-on-titan.webp",
+            "titanNature": "",
+            "episodeRelated": 5
+           
+          },
+
+
+          {
+            "_id": 13,
+            "characterId" :"y9ep9r72c2"            ,
+            "characterName": "Ymir",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dej1dvf-53b6f32a-2d4c-4ba1-9bdb-50db55f5e487.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGVqMWR2Zi01M2I2ZjMyYS0yZDRjLTRiYTEtOWJkYi01MGRiNTVmNWU0ODcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GVd79lt1qUVZNUweWmXM37TQCiJqxS8sj4Bxib--HUI",
+            "characterDescription": "Ymir (ユミル Yumiru?) was a graduate of the 104th Training Corps and a former member of the Survey Corps. She also had the ability to transform into the Jaw Titan, and had knowledge about the true nature of Titans and the history of the world outside the Walls."
+           ,
+           "aboutImage": "https://animerantshome.files.wordpress.com/2019/05/ymir-1.png",
+            "titanNature": "Jaw Titan",
+            "episodeRelated": 3
+          },
+       
+          {
+            "_id": 14,
+            "characterId" :"f4lagt69accs"            ,
+            "characterName": "Historia Reiss",
+            "characterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9952ad97-e4a9-4bcf-b115-21698c7a4149/dbzdhfa-beb8d1f3-6b23-4008-a5fb-ee2ad6292332.png/v1/fill/w_1024,h_1024/__aot___historia_reiss___render___by_mailyse_dbzdhfa-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzk5NTJhZDk3LWU0YTktNGJjZi1iMTE1LTIxNjk4YzdhNDE0OVwvZGJ6ZGhmYS1iZWI4ZDFmMy02YjIzLTQwMDgtYTVmYi1lZTJhZDYyOTIzMzIucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cfqnuClkUqjBIFNj4WzsQWmN9e0Vi6incK2XGg89Nbs",
+            "characterDescription": "Historia Reiss (ヒストリア・レイス Hisutoria Reisu?) is the current Queen of the Walls. She is also the illegitimate child of the nobleman Rod Reiss and is the last remaining member of the Reiss royal family. She was raised in isolation on one of the Reiss family estates until the fall of Wall Maria."
+           ,
+           "aboutImage":          "https://i.pinimg.com/736x/99/29/b2/9929b2f244254ae25a4f622a4219c0a4.jpg",
+            "titanNature": "",
+            "episodeRelated": 3
+          }
+
+       
+      
+]
