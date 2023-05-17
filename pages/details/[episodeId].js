@@ -8,11 +8,11 @@ export default function EpisodeDetails() {
   return (
     <div className="h-[900px]">
       {Episodes.map((post) => (
-        <div>
+        <div key={post.id}>
           {post.episodeCollection.map((episode) => (
             <>
               {+episode.episodeId === +episodeId ? (
-                <div className="flex flex-col items-center justify-center w-[90%] mt-10">
+                <div className="flex flex-col items-center justify-center w-[90%] mt-10" key={episode.id}>
                   <img
                     src={episode.episodeImage}
                     className="w-[60%] rounded-lg"
