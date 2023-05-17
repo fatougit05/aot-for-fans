@@ -13,10 +13,4 @@ export default function index() {
     
   )
 }
-{/*   {episodes.map((post) => (
-    <>
-{post.episodeCollection.map((ep) => (
-    <EpisodeDetails episodeId={ep.episodeId}/>
-    ))}
-    </>
-  ))}*/}
+

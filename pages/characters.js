@@ -51,7 +51,7 @@ const [filters ,setFilter] = useState("")
   <>
 
         
-<div className='pt-20 responsive-info'key={index}>
+<div className='pt-20 responsive-info'key={character.id}>
 <img src={character.aboutImage}
  className='w-[60%] rounded' alt="" />
 <div className='flex flex-col items-center justify-center ml-16'>

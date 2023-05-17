@@ -87,7 +87,7 @@ useEffect(() => {
         {posts.map((post, index) => (
           <div
             className="flex items-center mx-auto w-[100%] outline-none"
-            key={index}
+            key={post.id}
           >
             <div className="flex ">
               <img

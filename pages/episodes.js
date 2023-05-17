@@ -3,9 +3,9 @@ import EpisodeSucess from './episodes'
 // Import css files
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import EpisodesItems from './episodes/EpisodeItems';
 
 import { useSession } from 'next-auth/react';
+import EpisodesItems from './episodes/EpisodeItems';
 
 
  function episodes() {
@@ -17,21 +17,12 @@ return (
 </div>
 
 
-   <EpisodesItems />
+  <EpisodesItems />
 
     
     </div>
   )
 }
-{/** 
-export async function getServerSideProps (context) {
-  const session = await  getSession(context)
-  return {
-    props: {
-      data : session? <EpisodeSucess /> : <EpisodeLogin />
-    }
-  }
-}
-*/}
+
 export default episodes
 

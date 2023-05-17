@@ -1,7 +1,7 @@
 import { BookmarkIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import Episodes from "../../episode.json"
-import React, { useEffect , useState } from 'react'
+import React, { useEffect , useRef, useState } from 'react'
 import Skeleton from '../components/Skeleton';
 import index from '../details';
 
@@ -9,7 +9,6 @@ function EpisodesItems() {
 const [filters,setFilter] = useState("")
   const [criteria, setCriteria] = useState([])
   const [searchs, setSearch] = useState("")
-  console.log(searchs)
   function getNameList () {
       setCriteria(Episodes)
       console.log(Episodes)
@@ -18,16 +17,21 @@ const [filters,setFilter] = useState("")
   useEffect(() => {
       getNameList()
   },[])
-      
-  if(typeof window !== "undefined") {
-    const icon = document.querySelector(".icon")
-    const search = document.querySelector(".search")
+
+  const ref = useRef()
+      {/**   if(typeof window !== "undefined") {
+        document.querySelector(".icon")
+      */}
+      if(typeof window !== "undefined") {
+    const icon =document.querySelector(".icon")
+    const search =   document.querySelector('.search')
     icon.onclick = function() {
+      
         search.classList.toggle('active')
         }
 
-       
-    }
+      }
+   
     
       
   return (
@@ -63,21 +67,20 @@ const [filters,setFilter] = useState("")
           }
         })
         
-        .map((post,index) => (
-          <>
+        .map((post) => (
+          <div key={post?.id}>
          
- { searchs === "" ?  <h1 className='pt-6 text-2xl font-bold text-white'>SEASON {post.season}</h1> :"" }
+ { searchs === "" ?  <h1 className='pt-6 text-2xl font-bold text-center text-white'>SEASON {post?.season}</h1> :"" }
           <div
             className="responsive-grid items-center mx-auto ml-4 outline-none w-[80%]  mt-2"
-            key={index}
           >
            
-              {post.episodeCollection.filter((ep) => {
+              {post?.episodeCollection.filter((ep) => {
                 if(searchs=== "") {
                   return ep;
                 }
 
-                else if(ep.relatedTo.toLowerCase().includes(searchs.toLowerCase()) ){
+                else if(ep?.relatedTo.toLowerCase().includes(searchs.toLowerCase()) ){
                   return ep;
                 }
 
@@ -85,7 +88,7 @@ const [filters,setFilter] = useState("")
                   return ep
                 }
 
-                else if(ep.title.toLowerCase().replaceAll(" ","").includes(searchs.toLowerCase().replaceAll(" ",""))){
+                else if(ep?.title.toLowerCase().replaceAll(" ","").includes(searchs.toLowerCase().replaceAll(" ",""))){
                   return ep;
                 }
                
@@ -93,19 +96,19 @@ const [filters,setFilter] = useState("")
                 
               })
               .map(ep => (
-                 <div className="flex flex-col justify-center" key={ep.episodeId}>
-                <Link href={`details/${ep.episodeId}`}>
+                 <div className="flex flex-col justify-center" key={ep?.episodeId}>
+                <Link href={`details/${ep?.episodeId}`}>
                 <img
                 className="w-[76%]  rounded"
-                src={ep.episodeImage} 
+                src={ep?.episodeImage} 
                 alt=""
                 
               />
               </Link>
                 
 
-              <p className='pt-4 pb-4 text-xs text-left text-white'>{ep.title} season {ep.season} {""} <span className='text-red-600'>{" "}•Subtitled</span> 
-              <span className='pl-4 text-xs font-thin text-white'>{ep.duration} min.</span> <span><BookmarkIcon className='inline w-5 h-5 ml-4 text-red-700'/></span>
+              <p className='pt-4 pb-4 text-xs text-left text-white'>{ep?.title} season {ep?.season} {""} <span className='text-red-600'>{" "}•Subtitled</span> 
+              <span className='pl-4 text-xs font-thin text-white'>{ep?.duration} min.</span> <span><BookmarkIcon className='inline w-5 h-5 ml-4 text-red-700'/></span>
               </p>
               </div>
                 ))}
@@ -113,11 +116,11 @@ const [filters,setFilter] = useState("")
           </div>
      
       
-      </>
+      </div>
         )) : (
          <div className='responsive-grid ' >
-          {new Array(12).fill(0).map((_,index) => (
-          <div key={index}>
+          {new Array(12).fill(0).map((_,e) => (
+          <div key={e?.id}>
              <Skeleton backgroundColor="#3f3f3f" borderRadius={10} width="300px" height="200px" marginTop="15px" marginLeft="15px"/>
              </div>
           ))}
