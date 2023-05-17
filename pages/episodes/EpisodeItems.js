@@ -39,7 +39,6 @@ const [filters,setFilter] = useState("")
     <input onChange={(e) => setSearch(e.target.value)}
      type="text" placeholder="ex:armin,episode 1, 32(min)" id="mysearch" className='bg-gray-700 '/>
 </div>
-<span className='clear' onClick=""></span>
  </div>
  
 <select id="filter-items" defaultValue="" onChange={(e) => setFilter(e.target.value)} className='px-2 mt-10 ml-20 text-gray-200 bg-gray-500 rounded outlirounded-lg'>
@@ -116,11 +115,11 @@ const [filters,setFilter] = useState("")
       
       </>
         )) : (
-         <div className='responsive-grid ' key={index}>
+         <div className='responsive-grid ' >
           {new Array(12).fill(0).map((_,index) => (
-          
+          <div key={index}>
              <Skeleton backgroundColor="#3f3f3f" borderRadius={10} width="300px" height="200px" marginTop="15px" marginLeft="15px"/>
-         
+             </div>
           ))}
               </div>
         )}

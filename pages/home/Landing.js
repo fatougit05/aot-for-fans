@@ -44,13 +44,13 @@ console.log(result)
           </div>
           <p className="text-xs w-[80%] mt-10">
             A space for the aot fandom to re-watch and comments your favorite
-            aot episodes {"  "}
+            aot episodes and watch the latest season. {" "}
             <Link href="/episodes">
             <span className="text-red-800 underline hover:cursor-pointer hover:">
-              our free episodes{" "}
+              see free episodes{" "}
             </span>{" "}
             </Link>
-            and watch the latest season.
+          
           </p>
 
           <div className="flex flex-col items-center mt-10 w-[80%]">
