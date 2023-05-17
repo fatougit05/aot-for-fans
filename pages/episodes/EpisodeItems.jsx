@@ -22,25 +22,27 @@ const [filters,setFilter] = useState("")
 
   const ref = useRef()
       {/**   if(typeof window !== "undefined") {
-        document.querySelector(".icon")
+        document.querySelector(".icon")    icon.onclick = function() {
+      
+        search.classList.toggle('active')
+        }
       */}
       if(typeof window !== "undefined") {
     const icon =document.querySelector(".icon")
     const search =   document.querySelector('.search')
-    icon.onclick = function() {
-      
-        search.classList.toggle('active')
-        }
+
 
       }
    
-    
+      
+
+      
       
   return (
     <div className='h-[3000px]'>
       <div  className='responsive-flexbox '>
- <div className='mt-10 bg-gray-700 search'>
-<div className='icon '></div>
+ <div className='mt-10 bg-gray-700 search active'>
+<div  className='icon '></div>
 <div className='input'>
     <input onChange={(e) => setSearch(e.target.value)}
      type="text" placeholder="ex:armin,episode 1, 32(min)" id="mysearch" className='bg-gray-700 '/>
